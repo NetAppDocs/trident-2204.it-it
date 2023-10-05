@@ -14,7 +14,7 @@ summary: 'Puoi implementare Astra Trident con l"operatore Trident. È possibile 
 Puoi implementare Astra Trident utilizzando l'operatore Trident. È possibile implementare l'operatore Trident in due modi:
 
 * Utilizzo di Trident link:https://artifacthub.io/packages/helm/netapp-trident/trident-operator["Grafico di comando"^]: Helm Chart implementa l'operatore Trident e installa Trident in un'unica fase.
-* Manualmente: Trident fornisce un link:https://github.com/NetApp/trident/blob/master/deploy/bundle.yaml["bundle.yaml"^] file che può essere utilizzato per installare l'operatore e creare oggetti associati.
+* Manualmente: Trident fornisce un link:https://github.com/NetApp/trident/blob/stable/v22.04/deploy/bundle.yaml["bundle.yaml"^] file che può essere utilizzato per installare l'operatore e creare oggetti associati.
 
 
 
