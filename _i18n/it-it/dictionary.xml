@@ -964,8 +964,6 @@
   <block id="485e8e209b502a7975830960817b875e" category="paragraph">Se non si utilizza Astra Trident 22.04, è disponibile la documentazione relativa alle release precedenti.</block>
   <block id="4af8991c21dff2f779496b8350d1124b" category="inline-link">Astra Trident 22.01</block>
   <block id="7669b0b69333e81c7c208aea3d1a3c6f" category="list-text"><block ref="7669b0b69333e81c7c208aea3d1a3c6f" category="inline-link-rx"></block></block>
-  <block id="cce172403b73af5c2a4e93081affcc7f" category="inline-link">Astra Trident 21.10</block>
-  <block id="606b9e83fb467a43b3065d4fd5037094" category="list-text"><block ref="606b9e83fb467a43b3065d4fd5037094" category="inline-link-rx"></block></block>
   <block id="5ee08ab883e000ce6b739dbb0b6ff376" category="summary">Scopri di più sulle parti del sistema Kubernetes.</block>
   <block id="607ae6360b32f1bd6e559e915d414fab" category="doc">Concetti di Kubernetes</block>
   <block id="d60f0fff1c23a02458849862f593357e" category="inline-link">Sistema Kubernetes</block>
@@ -3099,4 +3097,17 @@ Per ulteriori informazioni, vedere <block ref="04cf7258a315ca08f4b436c194fef69d"
   <block id="f8b52d963f246a75dc6c8b78c954a4fd" category="list-text"><block ref="f8b52d963f246a75dc6c8b78c954a4fd" category="inline-link-rx"></block></block>
   <block id="b6780b7b2561935ff862fe7126cde751" category="list-text"><block ref="b6780b7b2561935ff862fe7126cde751" category="inline-link-rx"></block></block>
   <block id="b9a641d903e611a87a5e68ac7fdb0b84" category="list-text">Trident AutoSupport non raccoglie né trasmette dati personali o di identificazione personale (PII). Viene fornito con un<block ref="173a360b412944768c2ab13e6c8fd1c7" category="inline-link-rx"></block> che non è applicabile all'immagine contenitore Trident stessa. Puoi saperne di più sull'impegno di NetApp nei confronti della sicurezza e della fiducia dei dati<block ref="d3cc55401bc8303e01c6b0c43ba0733f" category="inline-link-rx"></block>.</block>
+  <block id="6c0abaa198495bc62a07a25b5120401b" category="sidebar">Astra Trident è un provider di storage open source e orchestrator gestito da NetApp. Consente di creare volumi di storage per applicazioni containerizzate gestite da Docker e Kubernetes. Per informazioni complete sulla versione, incluse le modifiche alla versione delle patch, vedere https://docs.netapp.com/us-en/trident/trident-rn.html.</block>
+  <block id="dfc322d478fc59cd6375362d8dad7bc0" category="sidebar">Informazioni critiche su Kubernetes 1.25</block>
+  <block id="1fe917b01f9a3f87fa2d7d3b7643fac1" category="sidebar">FAQ</block>
+  <block id="312b0dc38b01ff32c1b2f5f81ee1ab2d" category="sidebar">Implementazione con l'operatore Trident</block>
+  <block id="6a693eb5cd23e4e5743663c7edc37aed" category="sidebar">Implementa Astra Trident per Docker</block>
+  <block id="386307d41b3f4169a1e6e046a727cdd2" category="sidebar">Aggiorna con l'operatore Trident</block>
+  <block id="81a123ccab93cd947289b672b0e50348" category="sidebar">Demo e tutorial</block>
+  <block id="28348a71bed382b86fa6de4d3a307715" category="sidebar">Video di Astra Trident</block>
+  <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">Blog e community</block>
+  <block id="6394eceb2639574114b02e6e817eb19a" category="sidebar">Blog di Astra</block>
+  <block id="874d8a5301794a9ca2aba132ac2460f3" category="sidebar">Hub Kubernetes</block>
+  <block id="d59c00abbeaf33a9a094b3a69c563405" category="sidebar">NetApp.io</block>
+  <block id="8f5cc6430613f1c12f36965050bb7197" category="sidebar">Discordare</block>
 </blocks>
